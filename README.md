@@ -201,6 +201,7 @@ This learning path is intended for everyone who wants to learn data science and 
 3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 4. [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 5. [Natural Language Processing with Python](https://www.nltk.org/book/)
+6. [FREE AI/ML courses for students](https://www.datacamp.com/universities)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
